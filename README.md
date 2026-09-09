@@ -2,23 +2,24 @@
 
 # Customer Segmentation & RFM Analytics
 
-**End-to-End Analytics Pipeline: T-SQL Engineering, Statistical RFM Modeling, and Interactive Power BI Intelligence**
+<p><b>End-to-End Analytics Pipeline: SQL Data Engineering, RFM Modeling & Power BI Dashboards</b></p>
 
-[![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![SQL Server](https://img.shields.io/badge/SQL%20Server-T--SQL-CC292B?style=flat&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server)
-[![Power BI](https://img.shields.io/badge/Power_BI-DAX%20%26%20Dashboards-F2C811?style=flat&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Clustering-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+<p>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"></a>
+  <a href="https://www.microsoft.com/sql-server"><img src="https://img.shields.io/badge/SQL_Server-CC292B?style=flat&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"></a>
+  <a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI"></a>
+  <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"></a>
+  <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"></a>
+</p>
 
-<p align="center">
-  <a href="#executive-summary">Executive Summary</a> •
-  <a href="#key-project-metrics">Key Metrics</a> •
-  <a href="#pipeline-architecture">Pipeline Architecture</a> •
-  <a href="#data-preparation--sql-pipeline">SQL Engineering</a> •
-  <a href="#rfm-analysis--customer-segmentation">RFM Modeling</a> •
-  <a href="#customer-segment-profiles">Customer Segments</a> •
-  <a href="#churn-risk--retention-matrix">Retention Matrix</a> •
-  <a href="#power-bi-dashboard-suite">Power BI Dashboards</a> •
+<p>
+  <a href="#executive-summary">Executive Summary</a> &bull;
+  <a href="#key-project-metrics">Key Metrics</a> &bull;
+  <a href="#pipeline-architecture">Architecture</a> &bull;
+  <a href="#data-preparation--sql-pipeline">SQL Pipeline</a> &bull;
+  <a href="#rfm-analysis--customer-segmentation">RFM Modeling</a> &bull;
+  <a href="#customer-segment-profiles">Segments</a> &bull;
+  <a href="#power-bi-dashboard-suite">Dashboards</a> &bull;
   <a href="#reproduction--execution-guide">Setup Guide</a>
 </p>
 
@@ -339,8 +340,8 @@ customer-segmentation-rfm-analytics/
 B.Tech in Computer Science Engineering | Central University of Haryana  
 Data Analytics, SQL, Python & Power BI
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sagar-bairwa)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white)](https://github.com/sagar-bairwa)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sagar.bairwa.tech@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sagar-bairwa)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sagar-bairwa)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sagar.bairwa.tech@gmail.com)
 
 </div>
